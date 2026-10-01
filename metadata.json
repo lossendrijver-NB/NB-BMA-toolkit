@@ -1,0 +1,6 @@
+{
+  "name": "NOBEARS Kennisbank",
+  "description": "Interne kennisbank van NOBEARS: ambities, diensten en cases.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
